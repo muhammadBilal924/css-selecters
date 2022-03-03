@@ -1,0 +1,35 @@
+#head {
+    text-align: center;
+    color: greenyellow;
+}
+#head {
+    text-align: left;
+}
+
+
+#para1 {
+    text-align: right;
+    color: rgb(146, 11, 63);
+}
+#para2 {
+    text-align: left;
+    color: blueviolet;
+}
+#center{
+    text-align: center;
+    color: chartreuse;
+}
+#center1 {
+    text-shadow: 10px;
+    color: crimson;
+
+}
+p.center{
+    text-align: center;
+    font-size: 300%;
+    color: red;
+}
+*{
+    text-align: center;
+    color: blue;
+}
